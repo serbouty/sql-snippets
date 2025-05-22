@@ -1,0 +1,11 @@
+# Default
+*                   text=auto
+
+# Source
+*.sql               text
+
+# Configuration
+.gitattributes      text 
+
+# Documentation
+*.md                text diff=markdown
