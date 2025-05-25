@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/license-mit-white?style=flat&logo=github"  alt="License MIT" /></a>
 </p>
 
-## Resources
+## Resource
 
 - [PostgreSQL 17.x Documentation](https://www.postgresql.org/docs/17/index.html)
 
